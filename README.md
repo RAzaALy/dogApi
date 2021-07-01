@@ -1,3 +1,5 @@
+# Dog API
+<img src="https://imguploader.net/if/U7tplpec3IL8.png" alt="img" />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
