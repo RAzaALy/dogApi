@@ -18,7 +18,7 @@ const App = () => {
     method: "GET",
     headers: {
       Accept: "application/json",
-      "x-api-key": "d422fbb5-253f-4f0b-ae97-f123af904743",
+      "x-api-key": "Yourapikey",
     },
   };
   useEffect(() => {
